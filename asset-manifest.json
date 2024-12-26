@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/birthday-game/static/css/main.7d9b6020.css",
-    "main.js": "/birthday-game/static/js/main.4f71ccdf.js",
+    "main.js": "/birthday-game/static/js/main.c848e26e.js",
     "static/js/488.d36e8466.chunk.js": "/birthday-game/static/js/488.d36e8466.chunk.js",
     "static/media/baby.gif": "/birthday-game/static/media/baby.83caf69c63d66fe32f30.gif",
     "static/media/lvl4.gif": "/birthday-game/static/media/lvl4.15369a1d9ea1b341d577.gif",
@@ -24,11 +24,11 @@
     "static/media/start.gif": "/birthday-game/static/media/start.e48f7e4cc80188ff78f2.gif",
     "index.html": "/birthday-game/index.html",
     "main.7d9b6020.css.map": "/birthday-game/static/css/main.7d9b6020.css.map",
-    "main.4f71ccdf.js.map": "/birthday-game/static/js/main.4f71ccdf.js.map",
+    "main.c848e26e.js.map": "/birthday-game/static/js/main.c848e26e.js.map",
     "488.d36e8466.chunk.js.map": "/birthday-game/static/js/488.d36e8466.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d9b6020.css",
-    "static/js/main.4f71ccdf.js"
+    "static/js/main.c848e26e.js"
   ]
 }
