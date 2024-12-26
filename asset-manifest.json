@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/birthday-game/static/css/main.7d9b6020.css",
+    "main.js": "/birthday-game/static/js/main.a13ff6a3.js",
+    "static/js/488.d36e8466.chunk.js": "/birthday-game/static/js/488.d36e8466.chunk.js",
+    "static/media/baby.gif": "/birthday-game/static/media/baby.83caf69c63d66fe32f30.gif",
+    "static/media/lvl4.gif": "/birthday-game/static/media/lvl4.15369a1d9ea1b341d577.gif",
+    "static/media/icon9.png": "/birthday-game/static/media/icon9.9d8f3c869ef968c8ef98.png",
+    "static/media/egg.gif": "/birthday-game/static/media/egg.0fee394825542d70f677.gif",
+    "static/media/win.png": "/birthday-game/static/media/win.1b14eb8416374cd94cc0.png",
+    "static/media/title.png": "/birthday-game/static/media/title.a9ed73c491b297a675f3.png",
+    "static/media/boss1.png": "/birthday-game/static/media/boss1.922d759380623fbab8a4.png",
+    "static/media/boss2.png": "/birthday-game/static/media/boss2.21dd7e78e3a8c13bbe72.png",
+    "static/media/wrong6.gif": "/birthday-game/static/media/wrong6.e8740fa49f79f8f0ce61.gif",
+    "static/media/boss3.png": "/birthday-game/static/media/boss3.89b014dc93868009f982.png",
+    "static/media/boss4.png": "/birthday-game/static/media/boss4.c92396931dd0f425fda0.png",
+    "static/media/boss5.png": "/birthday-game/static/media/boss5.575d13ed0f5ed31173b1.png",
+    "static/media/boss6.png": "/birthday-game/static/media/boss6.f6044c40114be6184c6a.png",
+    "static/media/demonboss.png": "/birthday-game/static/media/demonboss.2227597fc0d147e00990.png",
+    "static/media/lvl3.png": "/birthday-game/static/media/lvl3.dbd03b754c7e3a04ba78.png",
+    "static/media/gamer.png": "/birthday-game/static/media/gamer.eeceba5b02e80937cf4f.png",
+    "static/media/lvl2.png": "/birthday-game/static/media/lvl2.2455e92935eded00d646.png",
+    "static/media/icon8.png": "/birthday-game/static/media/icon8.e0451d47ae69b2730fff.png",
+    "static/media/start.gif": "/birthday-game/static/media/start.e48f7e4cc80188ff78f2.gif",
+    "index.html": "/birthday-game/index.html",
+    "main.7d9b6020.css.map": "/birthday-game/static/css/main.7d9b6020.css.map",
+    "main.a13ff6a3.js.map": "/birthday-game/static/js/main.a13ff6a3.js.map",
+    "488.d36e8466.chunk.js.map": "/birthday-game/static/js/488.d36e8466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d9b6020.css",
+    "static/js/main.a13ff6a3.js"
+  ]
+}
